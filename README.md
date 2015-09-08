@@ -1,0 +1,1 @@
+There are two tasks in this code challenge (word count and ui). Choose either of them (or both of them if you feel like it). Work on the problem in the time frame of your choice (0.5 hour, 1 hour and so on). Submit the result and scripts you have at the end of the time frame.
